@@ -1,2 +1,2 @@
 # -
-робот привітається з вами можна міняти нік і писати, зображення відправляти, також є панель яка відкривається і закривається 
+the robot will greet you, you can change your nickname and write, send images, there is also a panel that opens and closes
