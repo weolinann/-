@@ -1,2 +1,2 @@
 # online chat bot
-the robot will greet you, you can change your nickname and write, send images, there is also a panel that opens and closes
+An application for communicating with people, you can send images, talk to users, discuss important topics, design it in your own way
